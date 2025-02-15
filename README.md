@@ -1,4 +1,9 @@
 # SoftmaxAlgoritmasi
+
+NOT1: Ödevde 3 mahalle arasından 1 tane mi seçmemiz gerektiğini yoksa 3 mahalle arasında rota mı oluşturmamız gerektiğini tam anlayamadım ve onun yerine ve çok sayıda durak arasından uygun bir rota oluşturan bir algoritma oluşturdum
+
+NOT2: Videoda bahsettiğim nedenden ötürü konsol çıktısını gösteremedim ancak kodu yeni dosyada açıp konsol çıktısını ss alarak teams'e yükledim
+
 Softmax Algoritması Nedir?
 
 Softmax algoritması, bir dizi sayıyı (skorları) olasılık dağılımına dönüştüren matematiksel bir fonksiyondur. Bu algoritma, özellikle makine öğrenmesi ve istatistik alanlarında sıkça kullanılır. Softmax'ın temel amacı, bir grup skoru normalize ederek her bir skorun 0 ile 1 arasında bir olasılık değeri almasını ve tüm olasılıkların toplamının 1 olmasını sağlamaktır.
